@@ -1,0 +1,1 @@
+I'm creating a copy of the google homepage to test my coding skills and practice 
