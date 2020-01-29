@@ -1,0 +1,55 @@
+img {
+    margin: 150px 0px 20px 90px;
+}
+
+input {
+    margin: 0px 0px 0px 20px;
+    border: 2px solid rgb(242, 242, 242);
+    border-radius: 20px;
+    height: 35px;
+    width: 500px;
+}
+
+button {
+    margin: 25px 0px 0px 10px;
+    padding: 10px 20px 10px;
+    border-radius: 2px;
+    border: 1px;
+    font-size: 14px;
+    color: #222;
+}
+
+foot {
+    padding: 20px 0px 20px 0px;
+    background-color: rgb(242, 242, 242);
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+a {
+    position: relative;
+    left: 60px;
+    justify-text: center;
+    padding: 20px;
+}
+
+a:hover {
+    border: 5px;
+    font-size: 20px;
+}
+/*Form section does't work*/
+.button: hover {
+    box-shadow: 10px 10px 10px 10px gray;
+}
+    
+
+.button {
+    position: absolute;
+    left: 80px;
+}
+
+foot {
+    text-align:center;
+}
